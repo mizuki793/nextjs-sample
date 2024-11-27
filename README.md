@@ -1,3 +1,17 @@
+# memo
+* udemy:”Next.js、Prisma、GraphQL Code Generatorで作るフルスタックWebアプリケーション” 学習用
+## スキーマー情報
+- Todo
+  - id(string)
+  - userId(String)
+  - title(String)
+  - completed(boolean)
+  - createdAt(DateTime)
+  - updateAt(DateTime)
+  - user(User)
+
+- User(NextAuth.js)
+----
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
