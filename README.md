@@ -1,5 +1,6 @@
 # memo
 * udemy:”Next.js、Prisma、GraphQL Code Generatorで作るフルスタックWebアプリケーション” 学習用
+* セッション4-18まで済
 ## スキーマー情報
 - Todo
   - id(string)
